@@ -1,4 +1,4 @@
-# SPL
+# SPL1
 Some of the projects from Systems programing class.
 Assignment Definition:
 In our studio, we offer many workout plans (options). We have talented trainers who are experts in all
