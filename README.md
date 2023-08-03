@@ -1,6 +1,6 @@
-# SPL1
+# SPL
 Some of the projects from Systems programing class.
-Assignment Definition:
+SPL NUMBER 1 - Assignment Definition:
 In our studio, we offer many workout plans (options). We have talented trainers who are experts in all
 of our workout options (Yoga, Pilates, CrossFit, etc.), where each exercise can be Cardio Anaerobic
 or Mixed. For example, Yoga is considered an anaerobic exercise, while spinning (cycling) is a mixed
